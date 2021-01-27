@@ -2,6 +2,6 @@
 var mixer = mixitup('.container', {
     animation: {
         effects: 'fade scale',
-        duration : 2000
+        duration : 1500
     }
 });
